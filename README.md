@@ -1,4 +1,4 @@
-A Docker Compose file for setting up a Wireguard client in Docker
+A Docker Compose file for setting up a Wireguard client
 
 # Setup
 
